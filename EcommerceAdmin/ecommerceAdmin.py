@@ -106,6 +106,4 @@ if __name__ == '__main__':
 
         except:
             print('{:_^100}'.format(''))
-            print('{:^100}'.format('Incorrect input. Please be attentive. Try again.'))
-            
-        
+            print('{:^100}'.format('Incorrect input. Please be attentive. Try again.'))  
