@@ -7,3 +7,5 @@ ecommerce administration with main menu and a few basic option:
 * Edit product
 * Delete product
 * Exit
+
+Products: mobile phone.
